@@ -1,5 +1,9 @@
 [
   {
+    "package": "impactflu",
+    "oncran": true
+  },
+  {
     "package": "sclr",
     "oncran": true
   }
