@@ -5,6 +5,3 @@
 [submodule "impactflu"]
 	path = impactflu
 	url = https://github.com/khvorov45/impactflu
-[submodule "sclr"]
-	path = sclr
-	url = https://github.com/khvorov45/sclr
